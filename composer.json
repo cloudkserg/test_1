@@ -1,0 +1,14 @@
+{
+    "name": "root/test1",
+    "type": "project",
+    "authors": [
+        {
+            "name": "kirya",
+            "email": "cloudkserg11@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Src\\": "src/"}
+    },
+    "require": {}
+}
